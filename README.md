@@ -4,9 +4,7 @@ The code in this toolbox implements "LLM4FS: Leveraging Large Language Models fo
 
 
 ### Testing
-For the LLM-based method, in the LLMBased_demo folder, run LLMBased_demo.py, and then run classical.py to obtain the performance test results. 
-
-For the hybrid strategy we proposed, in the HybridStrategy_demo folder, first upload the description_LLM4OPT.txt file and the Credit-G_200.csv file in the prompt file to the LLMs. Then, put the json file given by the LLMs into the file with the path HybridStrategy_demo/data/classical/Credit-G/deepseekR1+RandomForest_output.json. Finally, run classical.py to obtain the performance test results. 
+First, upload the description_LLM4FS.txt file in the prompt file and the Credit-G_200.csv file to the LLMs. Then, place the json file provided by the LLMs into the file with the path./data/classical/Credit-G/deepseekR1+RandomForest_output.json. Finally, run classical.py to obtain the performance test results. 
 
 
 ### Citation
