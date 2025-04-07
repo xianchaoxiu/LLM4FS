@@ -1,0 +1,102 @@
+[
+  {
+    "concept-1": "Status of existing checking account",
+    "reasoning": "First selected due to highest initial predictive power.",
+    "score": 1.0
+  },
+  {
+    "concept-2": "Duration of credit",
+    "reasoning": "Second selected, improving model accuracy.",
+    "score": 0.95
+  },
+  {
+    "concept-3": "Payment status of previous credit",
+    "reasoning": "Third selected, strong interaction with target.",
+    "score": 0.9
+  },
+  {
+    "concept-5": "Credit amount",
+    "reasoning": "Fourth selected, high financial relevance.",
+    "score": 0.85
+  },
+  {
+    "concept-13": "Age",
+    "reasoning": "Fifth selected, demographic risk factor.",
+    "score": 0.8
+  },
+  {
+    "concept-6": "Savings account/bonds",
+    "reasoning": "Sixth selected, moderate impact.",
+    "score": 0.75
+  },
+  {
+    "concept-12": "Property",
+    "reasoning": "Seventh selected, asset-backed security.",
+    "score": 0.7
+  },
+  {
+    "concept-16": "Num. of Credits at this bank",
+    "reasoning": "Eighth selected, historical relationship.",
+    "score": 0.65
+  },
+  {
+    "concept-17": "Job",
+    "reasoning": "Ninth selected, employment stability.",
+    "score": 0.6
+  },
+  {
+    "concept-8": "Installment rate in percentage of disposable income",
+    "reasoning": "Tenth selected, debt-to-income ratio.",
+    "score": 0.55
+  },
+  {
+    "concept-9": "Personal status and sex",
+    "reasoning": "Eleventh selected, demographic bias.",
+    "score": 0.5
+  },
+  {
+    "concept-10": "Other debtors / guarantors",
+    "reasoning": "Twelfth selected, co-signer risk.",
+    "score": 0.45
+  },
+  {
+    "concept-11": "Duration in current address",
+    "reasoning": "Thirteenth selected, residency stability.",
+    "score": 0.4
+  },
+  {
+    "concept-15": "Type of apartment",
+    "reasoning": "Fourteenth selected, housing type effect.",
+    "score": 0.35
+  },
+  {
+    "concept-18": "Num. of people being liable to provide maintenance for",
+    "reasoning": "Fifteenth selected, dependents' burden.",
+    "score": 0.3
+  },
+  {
+    "concept-19": "Telephone",
+    "reasoning": "Sixteenth selected, contactability.",
+    "score": 0.25
+  },
+  {
+    "concept-20": "Foreign Worker",
+    "reasoning": "Seventeenth selected, immigration status.",
+    "score": 0.2
+  },
+  {
+    "concept-4": "Purpose of credit card debt",
+    "reasoning": "Eighteenth selected, loan purpose.",
+    "score": 0.15
+  },
+  {
+    "concept-7": "Length of current employment",
+    "reasoning": "Nineteenth selected, job tenure.",
+    "score": 0.1
+  },
+  {
+    "concept-14": "Other installment plans",
+    "reasoning": "Twentieth selected, minimal impact.",
+    "score": 0.05
+  }
+]

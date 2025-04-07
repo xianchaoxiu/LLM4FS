@@ -1,0 +1,19 @@
+Main System Prompt
+Please apply random forest to analyze the dataset samples. This is a classification task, where “ Class ” represents the classification. Please analyze the importance scores of all features. The score range is [0.0, 1.0], and the score of each feature should be different. The output format is as follows, in JSON file format.
+
+Format for Response
+[
+{
+“concept-1” : “Glucose”,
+“reasoning” : “The feature importance score is
+calculated using a random forest classifier. A higher
+score indicates greater importance in predicting the
+target variable.”,
+“score” : 0.95
+}
+]
+
+Dataset Samples
+(csv file with 200 samples)
+
+
