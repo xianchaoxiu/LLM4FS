@@ -4,7 +4,9 @@ The code in this toolbox implements "LLM4FS: Leveraging Large Language Models fo
 
 
 ### Testing
-First, upload the description_LLM4FS.txt file in the prompt file and the Credit-G_200.csv file to the LLMs. Then, place the json file provided by the LLMs into the file with the path./data/classical/Credit-G/deepseekR1+RandomForest_output.json. Finally, run classical.py to obtain the performance test results. 
+- Upload the description_LLM4FS.txt file in the prompt file and the Credit-G_200.csv file to the LLMs.
+- Place the json file provided by the LLMs into the file with the path./data/classical/Credit-G/deepseekR1+RandomForest_output.json. 
+- Run classical.py to obtain the results. 
 
 
 ### Citation
