@@ -1,6 +1,6 @@
 # LLM4FS
 
-The code in this toolbox implements "LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It". 
+The code in this toolbox implements "LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It" by <i>J. Li, X. Xiu</i>.
 
 
 ### Testing
@@ -11,3 +11,16 @@ The code in this toolbox implements "LLM4FS: Leveraging Large Language Models fo
 
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
+
+      @inproceedings{li2025llm4fs,
+      title     = {LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It},
+      author    = {Li, Jianhao and Xiu, Xianchao},
+      booktitle = {2025 China Automation Congress (CAC)},
+      pages     = {7297--7302},
+      year      = {2025},
+      organization = {IEEE}
+     }
+
+### Acknowledgement
+Please contact J. Li for more details.
+
